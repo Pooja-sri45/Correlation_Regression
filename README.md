@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+# NAME:POOJASRI L
+# REG.NO:212223220076
+# DATE:14/03/2025
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
